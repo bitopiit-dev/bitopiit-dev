@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+bitopiit-dev;Cyberpunk+Portfolio;Full+Stack+Developer;UI%2FUX+Thinker;Problem+Solver;Building+future-ready+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+bitopiit-dev;Cyberpunk+Portfolio;Full+Stack+Developer;UI%2FUX+Focused;Problem+Solver;Building+future-ready+products" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,8 +15,8 @@
 <h3 align="center">🚀 About Me</h3>
 
 <p align="center">
-  Hi, I’m <b>Khondaker Arifur Rahman</b> — a developer focused on building modern web experiences, clean interfaces, and scalable digital products.<br>
-  I enjoy turning ideas into polished applications with strong UX, performance, and maintainable code.
+  Hi, I’m <b>bitopiit-dev</b> — a developer focused on building modern web experiences, clean interfaces, and scalable digital products.<br>
+  I enjoy transforming ideas into polished applications with strong UX, performance, and maintainable code.
 </p>
 
 <p align="center">
@@ -96,5 +96,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bitopiit-dev&style=flat-square&color=00F5FF" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Profile%20Views-Available-00F5FF?style=flat-square" alt="Profile Views" />
 </p>
