@@ -49,6 +49,14 @@
   <img src="https://img.shields.io/badge/Design-Figma-FF6B6B?style=flat-square" />
 </p>
 
+<h3 align="center">📄 Resume</h3>
+
+<p align="center">
+  <a href="https://github.com/bitopiit-dev/bitopiit-dev/blob/main/resume.pdf">
+    <img src="https://img.shields.io/badge/View%20Resume-PDF-8A2BE2?style=for-the-badge" />
+  </a>
+</p>
+
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
