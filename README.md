@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+bitopiit-dev;Cyberpunk+Portfolio;Full+Stack+Developer;UI%2FUX+Focused;Problem+Solver;Building+future-ready+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Khondaker Arifur Rahman;Cyberpunk+Portfolio;Full+Stack+Developer;UI%2FUX+Focused;Problem+Solver;Building+future-ready+products" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 <h3 align="center">🚀 About Me</h3>
 
 <p align="center">
-  Hi, I’m <b>bitopiit-dev</b> — a developer focused on building modern web experiences, clean interfaces, and scalable digital products.<br>
+  Hi, I’m <b>Khondaker Arifur Rahman</b> — a developer focused on building modern web experiences, clean interfaces, and scalable digital products.<br>
   I enjoy transforming ideas into polished applications with strong UX, performance, and maintainable code.
 </p>
 
