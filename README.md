@@ -15,7 +15,7 @@
 <h3 align="center">🚀 About Me</h3>
 
 <p align="center">
-  Hi, I’m <b>bitopiit-dev</b> — a developer focused on building modern web experiences, clean interfaces, and scalable digital products.<br>
+  Hi, I’m <b>Khondaker Arifur Rahman</b> — a developer focused on building modern web experiences, clean interfaces, and scalable digital products.<br>
   I enjoy turning ideas into polished applications with strong UX, performance, and maintainable code.
 </p>
 
