@@ -3,13 +3,52 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/bitopiit-dev.png" width="190" height="190" alt="Profile Avatar" />
+  <a href="mailto:bgl.it@bitopibd.com?subject=Work%20enquiry%20from%20GitHub" title="Email me about work">
+    <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20WORK-00FF9F?style=for-the-badge&logo=github" alt="Status: Available for work" />
+  </a>
+  <a href="https://www.linkedin.com/in/arifurrahman-it" title="See my experience on LinkedIn">
+    <img src="https://img.shields.io/badge/ROLE-FULLSTACK%20ENGINEER-8A2BE2?style=for-the-badge" alt="Role: Fullstack Engineer" />
+  </a>
+  <a href="https://www.linkedin.com/in/arifurrahman-it" title="Open to remote work worldwide">
+    <img src="https://img.shields.io/badge/LOCATION-WORLDWIDE-FF4D6D?style=for-the-badge" alt="Location: Worldwide" />
+  </a>
+</p>
+
+<h3 align="center">🚀 About Me</h3>
+
+<p align="center">
+  Hi, I’m <b>Khondaker Arifur Rahman</b> — a developer focused on building modern web experiences, clean interfaces, and scalable digital products.<br>
+  I enjoy transforming ideas into polished applications with strong UX, performance, and maintainable code.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20WORK-00FF9F?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/ROLE-FULLSTACK%20ENGINEER-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LOCATION-WORLDWIDE-FF4D6D?style=for-the-badge" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="https://react.dev/" title="React"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /></a>
+  <a href="https://nodejs.org/" title="Node.js"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
+  <a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /></a>
+</p>
+
+<h3 align="center">🧠 Core Focus</h3>
+
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Learn" title="Web development"><img src="https://img.shields.io/badge/Web%20Development-✔-00C853?style=flat-square" alt="Web Development" /></a>
+  <a href="https://www.figma.com/" title="UI/UX design"><img src="https://img.shields.io/badge/UI%2FUX-✔-FFB000?style=flat-square" alt="UI/UX" /></a>
+  <a href="https://www.openapis.org/" title="API design"><img src="https://img.shields.io/badge/API%20Design-✔-7C3AED?style=flat-square" alt="API Design" /></a>
+  <a href="https://docs.github.com/en/actions" title="Automation"><img src="https://img.shields.io/badge/Automation-✔-00B8D9?style=flat-square" alt="Automation" /></a>
+  <a href="https://web.dev/performance" title="Performance"><img src="https://img.shields.io/badge/Performance-✔-FF6B6B?style=flat-square" alt="Performance" /></a>
+</p>
+
+<h3 align="center">⚙️ Tech Stack</h3>
+
+<p align="center">
+  <a href="https://react.dev/" title="Frontend: React"><img src="https://img.shields.io/badge/Frontend-React-00F5FF?style=flat-square&logo=react&logoColor=black" alt="Frontend: React" /></a>
+  <a href="https://nodejs.org/" title="Backend: Node.js"><img src="https://img.shields.io/badge/Backend-Node.js-39FF14?style=flat-square&logo=nodedotjs&logoColor=black" alt="Backend: Node.js" /></a>
+  <a href="https://www.mongodb.com/" title="Database: MongoDB"><img src="https://img.shields.io/badge/Database-MongoDB-FFD166?style=flat-square&logo=mongodb&logoColor=black" alt="Database: MongoDB" /></a>
+  <a href="https://github.com/features/actions" title="Tools: GitHub Actions"><img src="https://img.shields.io/badge/Tools-GitHub%20Actions-7C3AED?style=flat-square&logo=githubactions&logoColor=white" alt="Tools: GitHub Actions" /></a>
+  <a href="https://www.figma.com/" title="Design: Figma"><img src="https://img.shields.io/badge/Design-Figma-FF6B6B?style=flat-square&logo=figma&logoColor=white" alt="Design: Figma" /></a>
 </p>
 
 <h3 align="center">🚀 About Me</h3>
