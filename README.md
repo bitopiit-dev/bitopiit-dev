@@ -93,7 +93,7 @@
   <a href="mailto:bgl.it@bitopibd.com" title="Email">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.bitopi-group.com" title="Bitopi Group">
+  <a href="https://www.bitopibd.com" title="Bitopi Group">
     <img src="https://img.shields.io/badge/Website-Bitopi%20Group-16203A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Bitopi Group website" />
   </a>
 </p>
